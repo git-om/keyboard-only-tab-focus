@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'keyboard-only-tab-focus';
+  title = 'Keyboard-only Focus';
 }
